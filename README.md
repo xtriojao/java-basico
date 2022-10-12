@@ -1,2 +1,4 @@
 # java-basico
-Repositório para exercícios do bootcamp dio Potência Tech powered by iFood.
+## Repositório para exercícios do bootcamp dio Potência Tech powered by iFood.
+
+- Java Basico
